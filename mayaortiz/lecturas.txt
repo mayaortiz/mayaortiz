@@ -1,0 +1,14 @@
+1 - HTML 
+https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/iniciar
+
+2 - CSS
+https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Comenzando_CSS
+
+3 - BEM
+https://slides.com/michventura/modularidad-css-2
+
+4 - Flexbox
+https://slides.com/michcodes/flexbox
+
+5 - Grid
+https://slides.com/michcodes/css-grid
